@@ -1,6 +1,6 @@
 JGR DE Assessment
 
-I haven't touch GCP much but this was a good practice proof of concept using cloud technologies.
+I haven't touched GCP much but this was a good practice proof of concept using cloud technologies. GCP is known to handle data very well compared to its competitors.
 
 Workflow:
 
