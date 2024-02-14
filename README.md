@@ -1,5 +1,7 @@
 JGR DE Assessment
 
+I haven't touch GCP much but this was a good practice proof of concept using cloud technologies.
+
 Workflow:
 
 1. Read data from SMTSample.json
