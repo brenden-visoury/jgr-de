@@ -5,6 +5,7 @@ I haven't touched GCP much but this was a good practice proof of concept using c
 Main files:
 
 [Main script](https://github.com/brenden-visoury/jgr-de/blob/jgr-dev/car_data_parser.py)
+
 [Support script for GCP usage](https://github.com/brenden-visoury/jgr-de/blob/jgr-dev/gcp_utils.py)
 
 Workflow:
